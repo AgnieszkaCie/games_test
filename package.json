@@ -1,0 +1,24 @@
+{
+  "name": "othello",
+  "version": "1.0.0",
+  "description": "othello game",
+  "main": " ",
+  "scripts": {
+    "start": "webpack --progress --colors --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgnieszkaCie/games_test.git"
+  },
+  "author": "Agnieszka Cieslawska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgnieszkaCie/games_test/issues"
+  },
+  "homepage": "https://github.com/AgnieszkaCie/games_test#readme",
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "webpack": "^1.12.14"
+  }
+}
