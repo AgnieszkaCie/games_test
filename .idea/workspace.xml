@@ -1,116 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdfc8e92-6dd1-41f0-9fbe-45a98e94a446" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/build/bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/build/chess.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/build/day-1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/day-1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/notes.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/async/async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/async/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/bind/bind.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/bind/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/closures/closures.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/closures/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/01-accessing-dom/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/01-accessing-dom/js/model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/01-accessing-dom/js/view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/01-accessing-dom/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/01-accessing-dom/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/02-ajax-with-cors-issues/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/02-ajax-with-cors-issues/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/03-form-example/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/03-form-example/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/04-querying-dom/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/05-local-storage/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/05-local-storage/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/06-event-propagation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/06-event-propagation/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/07-smooth-scroll/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/07-smooth-scroll/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/data/users.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/data/varnish.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/localhost-1443608689586--traversing" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/localhost-1443617971264-hoisting" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/localhost-1443779344119-join-split" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/sample.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/dom/vendor/jquery-2.1.4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/errors/errors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/errors/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/functions/declaration-vs-expression.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/functions/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/iife/iife.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/iife/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/namespaces/app.calculator.test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/namespaces/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/namespaces/ns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/namespaces/qunit-1.21.0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/namespaces/qunit-1.21.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/namespaces/src/app/calculator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/namespaces/src/app/model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/namespaces/src/app/registration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/namespaces/src/app/view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/namespaces/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/namespaces/tests/app/calculator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/prototype/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/prototype/prototypal-inheritance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/this/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/this/this.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/undefined/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/undefined/undefined.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/variables/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/variables/qunit-1.21.0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/variables/qunit-1.21.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/variables/variable-scope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/with/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/docs/snippets/with/with.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/nauka_ac/auta_js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/othello/dist/bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/othello/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/othello/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/othello/src/entry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/othello/src/node_modules/app/createTable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/othello/src/node_modules/app/gameState.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/othello/src/node_modules/app/handleUserClick.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/othello/src/node_modules/app/prepareAppContainer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/othello/src/node_modules/app/stylePlayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/othello/webpack.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/src/node_modules/app/checkboard/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/src/node_modules/app/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/-1455968121471.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/-1455969231846.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/-1455980353928.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/-1456047425179.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/ajax/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/ajax/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/ajax/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/ajax/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/ajax/jquery-2.2.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/ajax/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/ajax/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/ajax/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/mustache/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/mustache/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/mustache/template.mustache" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/review/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/review/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/review/qunit-1.22.0.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/review/qunit-1.22.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/review/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/rock-paper-scissors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/tests/exercises/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/tests/exercises/calculator-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/tests/exercises/calculator-2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/tests/exercises/concat-1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/training/tests/sample.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jfdz-materialy-oop/webpack.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/games_test.iml" afterPath="$PROJECT_DIR$/.idea/games_test.iml" />
+    <list default="true" id="bdfc8e92-6dd1-41f0-9fbe-45a98e94a446" name="Default" comment="pliki_do projektu&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="games_test.iws" />
@@ -462,7 +353,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457283652555</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pliki_do projektu&#10;">
+      <created>1458489076968</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1458489076968</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -471,13 +368,13 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17412664" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
