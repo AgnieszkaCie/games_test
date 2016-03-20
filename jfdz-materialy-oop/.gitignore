@@ -1,0 +1,6 @@
+node_modules/*
+othello/node_modules/*
+!othello/src/node_modules/*
+.tern-port
+npm-debug.log
+.idea
