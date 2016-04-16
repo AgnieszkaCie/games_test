@@ -1,0 +1,54 @@
+<html ng-app="bindingApp">
+<head>
+
+    <title>Data Binding</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular.min.js"></script>
+    <script src="../app_JS.js"></script>
+    <style>
+        .big{
+            width:1000px;
+            height: 1000px;
+        }
+        .small{
+            width:150px;
+            height: 150px;
+        }
+    </style>
+</head>
+<body ng-controller="GreetingsController">
+<div>
+    <span>Hello {{name}}!</span>
+</div>
+
+<!--<div ng-include="'calculator.html'"></div>-->
+
+<div ng-controller="CalculatorController">
+    <input ng-model='operandOne' placeholder='Podaj liczbę'/>
+{{operator}}
+     <input ng-model='operandTwo' placeholder='Podaj liczbę'/>
+    = {{calculateResult()| number : 2}}
+    <div>
+    <button ng-repeat="currentOperator in operators" ng-click="mojaFunkcja(currentOperator)">{{currentOperator}}</button>
+    <!--<button ng-click="mojaFunkcja('-')">-</button>-->
+    <!--<button ng-click="mojaFunkcja('*')">*</button>-->
+    <!--<button ng-click="mojaFunkcja('/')">/</button>-->
+    <!--<button ng-click="mojaFunkcja('^')">^</button>-->
+    </div>
+    <div>
+    <div> Memory: {{memory}}</div><br>
+    <button ng-if="memory!==0" ng-click="memoryClear()">MC</button>
+    <button ng-show="memory!==0" ng-click="memoryRead()">MR</button>
+    <button ng-click="memoryAdd()">M+</button>
+    <button ng-click="memorySub()">M-</button>
+    </div>
+    <img ng-src="http://kot.net.pl/res/500x500_czy-koty-rozumieja-co-do-nich-mowimy-atdb.jpg"
+         ng-class="{small:calculateResult() <=0, big: calculateResult()>0}" />
+
+</div>
+
+
+</body>
+</html>
+
+<!--https://docs.angularjs.org/api/ng/directive-->
+<!--disabled-->
